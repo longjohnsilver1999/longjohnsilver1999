@@ -8,11 +8,10 @@ I am Sumit Katyal, love solving problems,coding, working on new projects ,long w
 
 👯 I’m looking to collaborate on any project and to learn new things from developers..
 
-💬 feel free to contact me, my mailid skatyal1999@gmail.com
+💬 feel free to contact me, my mail skatyal1999@gmail.com
 
 
 
-![sumitk-hub1999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitk-hub1999&theme=vue-dark&hide_border=true)
 
 
 ![sumitk-hub1999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitk-hub1999&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
