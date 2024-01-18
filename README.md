@@ -18,6 +18,9 @@ I am Sumit Katyal, love solving problems,coding, working on new projects ,long w
 
 
 ⚡ Fun fact: The concept of "tree" is not only fundamental in nature but also in computer science. In nature, you have trees with branches, leaves, and a hierarchical structure. In computer science, a "tree" is a data structure composed of nodes with branches, mirroring the hierarchical structure found in nature.
+
+
+![Visitor Count](https://profile-counter.glitch.me/sumitk-hub1999/count.svg)
 <!--
 **sumitk-hub1999/sumitk-hub1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
