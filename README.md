@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sumit Katyal, love solving problems,coding, working on new projects ,long walks and spending time in nature 🎍🌴🌳🌵🌾🌿🍀🍁🍂🍃⛰🌏🌊
+I am Sumit Katyal, love solving problems,coding and working on new projects
 
 🔭 I’m currently working on NodeJs, ReactjS and multiple other tech
 
