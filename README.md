@@ -4,7 +4,7 @@ I am Sumit Katyal, love solving problems,coding and working on new projects
 
 🔭 I’m currently working on NodeJs, ReactjS and multiple other tech
 
-🌱 I’m currently learning TypeScript,NextJs and python
+🌱 I’m currently learning TypeScript and python
 
 👯 I’m looking to collaborate on any project and to learn new things from developers..
 
